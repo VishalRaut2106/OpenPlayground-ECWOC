@@ -36,3 +36,8 @@ button {
     display: none;
     color: rgb(24, 220, 66);
 }
+
+#lose {
+    display: none;
+    color: rgb(251, 40, 96);
+}
